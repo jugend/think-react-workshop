@@ -4,8 +4,8 @@
 
 * Open your browser, visit http://jsbin.com/
 * Turn on HTML, CSS, and Output tabs
-* Copy the content of 01_html_template.html to the HTML window
-* Copy the content 02_css_template.css to the CSS window
+* Copy the content of 01_html_template.html to the HTML tab
+* Copy the content 02_css_template.css to the CSS tab
 
 ## Create components
 
